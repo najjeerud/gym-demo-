@@ -1,0 +1,5 @@
+{
+  "name": "Get Fit",
+  "description": "A premium, high-end fitness center website featuring modern UI, smooth animations, and comprehensive membership plans.",
+  "requestFramePermissions": ["geolocation"]
+}
